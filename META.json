@@ -1,0 +1,61 @@
+{
+  "category": "ci-cd",
+  "created_date": "2025-09-15T22:48:59.184866",
+  "default_ports": [
+    80,
+    443,
+    3000
+  ],
+  "dependencies": [],
+  "description": "strider is a free and open-source continuous deployment. Strider provides open source continuous deployment/integration platform",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/ci-cd/strider",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/ci-cd/strider",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:59.184886",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "strider",
+  "repository_url": "https://github.com/howtomgr/strider",
+  "spec_version": "2.0",
+  "subcategory": "ci-cd",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "ci-cd",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "strider Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/ci-cd/strider"
+}
